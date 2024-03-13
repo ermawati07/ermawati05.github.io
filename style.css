@@ -1,0 +1,57 @@
+.jumbotron{
+    padding-top:5rem;
+    background-color: #005b8f;
+
+}
+.galery{
+    padding:2rem;
+    background-color: #005b8f;
+
+}
+.lead{
+    color:white;
+}
+h1{
+    color:white;
+}
+.text{
+    color:white;
+}
+#project{
+    background-color: #005b8f;
+}
+.p1{
+    color:white;
+}
+section{
+    padding-top:6rem;
+}
+b{
+   font-size: 24px;
+   color:white;
+}
+p{
+    text-align: center;
+}
+.bi-instagram{ 
+    /* background:linear-gradient(purple,red,orange,yellow); */
+    color:orangered;
+    border-radius: 100%;
+}
+.bi-tiktok{  
+    color: black;
+    border-radius: 100%;
+   
+}
+.bi-facebook{ 
+    border-radius: 50%;
+    color: rgb(1, 1, 172);
+    border-radius: 100%;
+   
+}
+.erna{
+    margin-left:15px;
+}
+.card-text{
+    font-size: 16px;
+}
